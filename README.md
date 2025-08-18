@@ -45,4 +45,25 @@ This repository serves as a central hub, highlighting my journey, skills, and sh
 
 ### Explore my work:
 - [My_Django_Profile](https://github.com/LuisMongeNarvaez/My_Django_Profile)
-- [My_Flask_Profile](
+- [My_Flask_Profile](https://github.com/LuisMongeNarvaez/My_Flask_Profile)
+- [My_FastAPI_Profile](https://github.com/LuisMongeNarvaez/My_FastAPI_Profile)
+
+---
+
+## 📚 Organization Overview
+
+This repository collects my main framework portfolios in one place.  
+Browse each project to see code, documentation, and live demos.
+
+---
+
+## 📫 Connect
+
+Feel free to browse, star, or fork my projects.  
+Reach out via [GitHub Issues](https://github.com/LuisMongeNarvaez/Python-Frameworks/issues) or email me at luis@example.com.
+
+---
+
+> _Building, learning, and sharing—one commit at a time._
+
+</div>
