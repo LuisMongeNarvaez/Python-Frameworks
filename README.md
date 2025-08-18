@@ -45,11 +45,6 @@ This repository serves as a central hub, highlighting my journey, skills, and sh
   </a>
 </p>
 
-
-- [My_Django_Profile](https://github.com/LuisMongeNarvaez/My_Django_Profile)
-- [My_Flask_Profile](https://github.com/LuisMongeNarvaez/My_Flask_Profile)
-- [My_FastAPI_Profile](https://github.com/LuisMongeNarvaez/My_FastAPI_Profile)
-
 ---
 
 ## 📚 Organization Overview
