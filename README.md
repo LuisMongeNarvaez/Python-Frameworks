@@ -23,6 +23,8 @@ This repository serves as a central hub, highlighting my journey, skills, and sh
 
 ## 🚀 Featured Frameworks & Projects
 
+### Explore my work:
+
 <p align="center">
   <a href="https://github.com/LuisMongeNarvaez/My_Django_Profile">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUx5RI3jY2JPV3HuxRoHNtNmTYhVHkwAspKQ&s" alt="Django" width="100"/>
@@ -43,7 +45,7 @@ This repository serves as a central hub, highlighting my journey, skills, and sh
   </a>
 </p>
 
-### Explore my work:
+
 - [My_Django_Profile](https://github.com/LuisMongeNarvaez/My_Django_Profile)
 - [My_Flask_Profile](https://github.com/LuisMongeNarvaez/My_Flask_Profile)
 - [My_FastAPI_Profile](https://github.com/LuisMongeNarvaez/My_FastAPI_Profile)
