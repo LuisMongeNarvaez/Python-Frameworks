@@ -37,7 +37,7 @@ This repository serves as a central hub, highlighting my journey, skills, and sh
   </a>
   <br/><br/>
   <a href="https://github.com/LuisMongeNarvaez/My_FastAPI_Profile">
-    <img src="https://raw.githubusercontent.com/LuisMongeNarvaez/My_FastAPI_Profile/main/assets/fastapi-logo.png" alt="FastAPI" width="100"/>
+    <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-18%2010-14-06.png?raw=true" alt="FastAPI" width="100"/>
     <br/>
     <b>FastAPI Portfolio</b>
   </a>
@@ -60,7 +60,7 @@ Browse each project to see code, documentation, and live demos.
 ## 📫 Connect
 
 Feel free to browse, star, or fork my projects.  
-Reach out via [GitHub Issues](https://github.com/LuisMongeNarvaez/Python-Frameworks/issues) or email me at luis@example.com.
+Reach out via [GitHub Issues](https://github.com/LuisMongeNarvaez/Python-Frameworks/issues) or email me at tintincr1@gmail.com.
 
 ---
 
