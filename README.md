@@ -30,7 +30,7 @@ This repository serves as a central hub, highlighting my journey, skills, and sh
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUx5RI3jY2JPV3HuxRoHNtNmTYhVHkwAspKQ&s" alt="Django" width="100"/> 
     <img src="https://github.com/LuisMongeNarvaez/.github/blob/main/Screenshot%20from%202025-08-19%2012-07-03.png?raw=true" alt="PostgreSQL" width="100"/>
     <br/>
-    <b>Django Portfolio</b>
+    <b>Django | PostgreSQL Portfolio </b>
   </a>
   <br/><br/>
   <a href="https://github.com/LuisMongeNarvaez/My_Flask_Profile">
